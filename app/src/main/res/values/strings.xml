@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">quizApp</string>
+    <string name="title">Geography quiz!</string>
+
+    <string name="q1">What is the largest country in the world (by area)?</string>
+
+
+    <string name="q2">Which of the following countries does NOT \n have a population exceeding 200 million? </string>
+    <string name="wa21">USA</string>
+    <string name="qa2">Pakistan</string>
+    <string name="wa22">Indonesia</string>
+
+    <string name="q3">The flag of which country is the only non-rectangular national flag?</string>
+    <string name="qa3">Nepal</string>
+    <string name="wa31">Switzerland</string>
+    <string name="wa32">San Marino</string>
+
+    <string name="q4">Which of the following countries are \n members states of the European Union?</string>
+    <string name="qa41">Sweden</string>
+    <string name="qa42">Denmark</string>
+    <string name="w4">Norway!!</string>
+
+    <string name="q5">How many islands is Japan made up of?</string>
+    <string name="qa5">6,852</string>
+    <string name="wa51">12,852</string>
+    <string name="wa52">852</string>
+
+    <string name="q6">Which of these countries does NOT border Russia?</string>
+    <string name="wa61">Armenia</string>
+    <string name="wa62">Poland</string>
+    <string name="qa6">North Korea</string>
+
+
+</resources>
